@@ -1,6 +1,6 @@
 package commands;
 
-import Receivers.GarageDoor;
+import receivers.GarageDoor;
 
 /**
  * Command to close the garage door

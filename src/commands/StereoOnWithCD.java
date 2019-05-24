@@ -1,6 +1,6 @@
 package commands;
 
-import Receivers.Stereo;
+import receivers.Stereo;
 
 /**
  * Command to turn on the stereo and to use a CD

@@ -1,4 +1,4 @@
-package Receivers;
+package receivers;
 
 /**
  * The light is one of the things that we want to manage with our control

@@ -1,6 +1,6 @@
 package commands;
 
-import Receivers.Light;
+import receivers.Light;
 
 /**
  * Command to turn off the light

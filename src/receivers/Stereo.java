@@ -1,4 +1,4 @@
-package Receivers;
+package receivers;
 
 /**
  * The stereo is one of the things that we want to manage with our control

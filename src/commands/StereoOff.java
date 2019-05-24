@@ -1,6 +1,6 @@
 package commands;
 
-import Receivers.Stereo;
+import receivers.Stereo;
 
 /**
  * Command to turn off the stereo

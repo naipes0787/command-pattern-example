@@ -1,5 +1,5 @@
 import commands.LightOnCommand;
-import Receivers.Light;
+import receivers.Light;
 import invokers.SimpleRemoteControl;
 
 public class RemoteControlMain {
